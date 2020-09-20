@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="movie_Type">Most Popular</string>
+
+    <string-array name="prefListItem">
+        <item>Most Popular</item>
+        <item>Top Rated</item>
+    </string-array>
+</resources>
